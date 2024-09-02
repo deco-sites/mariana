@@ -26,7 +26,7 @@ export interface Nav {
 export default function Header({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/67120bcd-936a-4ea5-a760-02ed5c4a3d04",
+      "https://admin.deco.cx/live/invoke/website/loaders/image.ts?src=https%3A%2F%2Fdeco-sites-assets.s3.sa-east-1.amazonaws.com%2Fmariana%2Fca27b196-15f2-425c-b85f-5764f74565c1%2Flogo.webp&fit=contain&width=400&height=400",
     alt: "Logo",
   },
   navigation = {
